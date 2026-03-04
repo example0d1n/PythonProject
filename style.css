@@ -1,7 +1,7 @@
 body{
     background-color: #000000
 }
-p{
+pre{
     color: Blue;
     font-family: Signika,"Piston Black", fantasy;
     font-size: 15px;
@@ -11,14 +11,16 @@ h1{
     font-family: Fantasy, arial;
     color: blue;
 }
-h4{
+h3{
     font-family: Fantasy, arial;
     color: blue;
-    position: fixed;
+    position: left;
 }
 
 img {
     display: block;
-    width: 50%;
+    width: 500px;
+    height:500px;
     margin: auto;
+    box-shadow: 6px 6px 10px blue;
 }
