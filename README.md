@@ -1,2 +1,2 @@
 This website was inspired by The Marias. I enjoy their discography, and dedicated my favorite song from their recent album to a website! 
-If upon opening the repository, and the website doesn't immediately open up, select Song.html!
+I made this website to share my favorite song from their album titled "Submarine". It's a song that explores the overwhelming anxiety and feeling of being smothered within a relationship, where fear turns reality into a "funhouse mirror". Though it is sad, it is a relatable story for many of those in an unfufilling relationship!
